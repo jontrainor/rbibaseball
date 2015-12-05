@@ -1,0 +1,26 @@
+{
+    "folders":
+    [
+        {
+            "name": "Project Stuff",
+            "path": ".",
+            "folder_exclude_patterns": ["assets", "export", "source"],
+            "follow_symlinks": false
+        },
+        {
+            "name": "Haxe Source",
+            "path": "source",
+            "follow_symlinks": false
+        },
+        {
+            "name": "Assets",
+            "path": "assets",
+            "follow_symlinks": false
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true
+    }
+}
